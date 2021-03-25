@@ -11,7 +11,7 @@
 ### I Challenge you for a friendly game of Tic-Tac-Exploit  <br>
 <br/>
 Do you have what it takes to hack me? Click somewhere in the game area to find out! <br/><br/>
-Reset was requested by: [@Summeli](https://github.com/Summeli)<br/>
+Reset was requested by: <a href=https://github.com/Summeli>@Summeli]</a>
 <table>
   <tr>
     <td> <a href="https://github.com/Summeli/Summeli/issues/new?title=ttestate%3A1%7C0%7C0%7C0%7C0%7C0%7C0%7C0%7C0&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds."><img src=https://raw.githubusercontent.com/Summeli/Summeli/master/img/empty.png></a></td>
