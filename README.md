@@ -2,7 +2,7 @@
 
 - 👯 I'm CTO and Co-Founder of [Cloudamite](https://cloudamite.com) 
 - 🤔 I'm intersted in : Emulators
-- 🌱 I’m currently learning Typescript and React.
+- 🌱 I’m currently learning 3d-modeling and design.
 - 💬 Ask me about: Cloud 
 - ⚡ Fun fact: I'm an active climber and snowboarder. Follow my adventures in [Youtube](https://www.youtube.com/channel/UCH2A1M35TShE6JRTzvTPMWA) and [Instagram](https://www.instagram.com/antti.pohjola)
 - 📫 How to reach me:
