@@ -7,7 +7,7 @@
 - 🏂 Fun fact: I'm an active climber and snowboarder. Follow my adventures in [Youtube](https://www.youtube.com/channel/UCH2A1M35TShE6JRTzvTPMWA) and [Instagram](https://www.instagram.com/antti.pohjola)
 - 💎 Try my cursing bingo in finnish [kirosanabingo](https://kirosanabingo.com) 
 - 📫 How to reach me:
-    **[E-Mail](mailto:summeli@summeli.com), [LinkedIn](https://www.linkedin.com/in/antti-pohjola), [Youtube](https://www.youtube.com/channel/UCH2A1M35TShE6JRTzvTPMWA), [Instagram](https://instagram.com/antti.pohjola)**
+    **[E-Mail](mailto:summeli@summeli.com), [LinkedIn](https://www.linkedin.com/in/antti-pohjola), [Youtube](https://www.youtube.com/@AnttiPohjola), [Instagram](https://instagram.com/antti.pohjola), [Mastodon](https://fosstodon.org/@summeli)**
 
 ### I Challenge you for a friendly game of Tic-Tac-Exploit  <br>
 <br/>
