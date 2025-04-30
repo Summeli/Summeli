@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I'm CTO and Co-Founder of [Cloudamite](https://cloudamite.com) 
+- 👯 I'm CEO and Co-Founder of [Cloudamite](https://cloudamite.com) 
 - 🤔 I'm intersted in : Emulators
 - 🌱 I’m currently learning 3d-modeling and design.
 - 💬 Ask me about: Cloud 
